@@ -1,4 +1,4 @@
-# Weekly Group Logbook7
+# Weekly Group Logbook w7
 
 ## 1.ชื่อหัวข้อวิจัยเบื้องต้น (Research Title Draft)
 
