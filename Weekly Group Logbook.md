@@ -1,4 +1,3 @@
-
 # Eurk
 ## กรอบแนวคิดการวิจัย (Conceptual Framework / System Architecture Diagram)
 
@@ -32,6 +31,6 @@ https://ieeexplore.ieee.org/document/9895010
 
 สิ่งที่จะเข้าไปเติมในงานวิจัยเดิม : กลุ่มของข้าพเจ้ากำลังศึกษาการทำแผนที่จำลอง digital twin บริเวณหน้ามอพะเยาเพื่อให้เห็นถึงจุดที่ได้รับความเสียหายจากน้ำท่วมและสามารถเตือนภัยให้ผู้คนที่อยู่บริเวณหน้ามอพะเยาได้เตรียมความพร้อมล่วงหน้าและพร้อมรับมือเมื่อเกดิเหตุการณ์น้ำท่วมและนอกจากนี้กลุ่มของข้าะเจ้ายังได้ศึกษาการนำทางเส้นทางบนท้องถนนที่ได้รับผลกระทบเพื่อที่จะสามารถแสดงเส้นทางที่ควรเลี่ยงให้แก่ผู้ประสลภัยและมูลนิธิกู้ภัย
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5NDg2OTczLC0xMDQyNTgyNTgwLC0xMz
-kyNDU5MzU4LDExMzkyNzM0NjBdfQ==
+eyJoaXN0b3J5IjpbLTEzODE5ODg2NTcsNjY5NDg2OTczLC0xMD
+QyNTgyNTgwLC0xMzkyNDU5MzU4LDExMzkyNzM0NjBdfQ==
 -->
