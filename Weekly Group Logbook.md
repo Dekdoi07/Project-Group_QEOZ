@@ -22,15 +22,16 @@
 # Q
 ## หัวข้อ Research Gap  
 งานเดิมขาดอะไร งานของเราจะเข้าไปเติมเต็มตรงไหน  
-อ้างอิงมาจากวิจัยเรื่องที่1:Flood Hazard Mapping by Using Spatio-temporal Prediction Model  
-Linkงานวิจัยที่1 : [[https://ieeexplore.ieee.org/document/9895010/;jsessionid=9801FCD9C0D1380C7887D81AE86CEE7A](https://…](https://ieeexplore.ieee.org/document/9895010/;jsessionid=9801FCD9C0D1380C7887D81AE86CEE7A](https://ieeexplore.ieee.org/document/9895010) 
-
-"https://ieeexplore.ieee.org/document/9895010/;jsessionid=9801fcd9c0d1380c7887d81ae86cee7a](https://ieeexplore.ieee.org/document/9895010)")
+อ้างอิงมาจากวิจัยเรื่องที่1:Flood Hazard Mapping by Using Spatio-temporal Prediction Model
+Linkงานวิจัยที่1 :
+https://ieeexplore.ieee.org/document/9895010/;jsessionid=9801FCD9C0D1380C7887D81AE86CEE7A
+https://ieeexplore.ieee.org/document/9895010/;jsessionid=9801fcd9c0d1380c7887d81ae86cee7a
+https://ieeexplore.ieee.org/document/9895010
 
 สิ่งที่งานเดิมขาด: ในพื้นที่ที่ไม่มีสถาณีตรวจวัด ทำให้ต้องคำนวณจากจุดที่มีสถาณีทำให้มีโอกาสที่ค่าจะคลาดเคลื่อนได้และในกรณีศึกษาของกลุ่มข้าพเจ้าที่ได้ทำกรณีศึกษาบริเวณหน้ามอพะเยาที่ได้รับผลกระทบน้ำท่วมจากปีที่ผ่านมาไม่สามารถคาดการณ์เหตุการล่วงหน้าได้ดังนั้นกลุ่มของข้าพเจ้าจึงได้นำเสนอว่างานของกลุ่มข้าพเจ้าจะเข้าไปเติมตรงไหนได้บ้าง
 
 สิ่งที่จะเข้าไปเติมในงานวิจัยเดิม : กลุ่มของข้าพเจ้ากำลังศึกษาการทำแผนที่จำลอง digital twin บริเวณหน้ามอพะเยาเพื่อให้เห็นถึงจุดที่ได้รับความเสียหายจากน้ำท่วมและสามารถเตือนภัยให้ผู้คนที่อยู่บริเวณหน้ามอพะเยาได้เตรียมความพร้อมล่วงหน้าและพร้อมรับมือเมื่อเกดิเหตุการณ์น้ำท่วมและนอกจากนี้กลุ่มของข้าะเจ้ายังได้ศึกษาการนำทางเส้นทางบนท้องถนนที่ได้รับผลกระทบเพื่อที่จะสามารถแสดงเส้นทางที่ควรเลี่ยงให้แก่ผู้ประสลภัยและมูลนิธิกู้ภัย
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NzA1NzA1LC0xMDQyNTgyNTgwLC0xMz
+eyJoaXN0b3J5IjpbNjY5NDg2OTczLC0xMDQyNTgyNTgwLC0xMz
 kyNDU5MzU4LDExMzkyNzM0NjBdfQ==
 -->
